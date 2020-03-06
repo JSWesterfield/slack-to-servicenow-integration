@@ -1,0 +1,28 @@
+{
+  "name": "slack-to-servicenow-api",
+  "version": "1.0.0",
+  "description": "📲📥Slack To ServiceNow Api is a NodeJS application for creating a service now ticket within Slack and pushing this to the ServiceNow API",
+  "main": "serviceProcessor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSWesterfield/slack-to-servicenow-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSWesterfield/slack-to-servicenow-integration/issues"
+  },
+  "homepage": "https://github.com/JSWesterfield/slack-to-servicenow-integration#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-winston": "^4.0.3",
+    "jasmine": "^3.5.0",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
