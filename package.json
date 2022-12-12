@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JSWesterfield/slack-to-servicenow-integration#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-winston": "^4.0.3",
     "jasmine": "^3.5.0",
     "nodemon": "^2.0.2"
